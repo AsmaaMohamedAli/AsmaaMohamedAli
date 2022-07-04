@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsmaaMohamedAli
-- 👀 I’m interested in programing and telecomunication
+- 👀 I’m interested in programming and telecomunication
 <!---- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
